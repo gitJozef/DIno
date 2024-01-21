@@ -1,0 +1,12 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'global';
+
+body{
+  height: 100px;
+  background-color: #e90606;
+  display: flex;
+}
+
+@import 'media';
